@@ -9,3 +9,15 @@ In case someone decides to use my source code in their local machine, make sure 
 
 We have a total of 70,000 images (28 x 28 dimension), out of which 60,000 are from the training set and 10,000 from the test one. The training images are pre-labelled according to the apparel type with 10 total classes. The test images are, of course, not labelled. The challenge is to identify the type of apparel present in all the test images.
 
+|     Label     |  Description  |
+| ------------- | ------------- |
+|       0       |  T-shirt/top  |
+|       1       |    Trouser    |
+|       2       |    Pullover   |
+|       3       |     Dress     |
+|       4       |     Coat      |
+|       5       |     Sandal    |
+|       6       |     Skirt     |
+|       7       |     Shoe      |
+|       8       |      Bag      |
+|       9       |   Ankle Boot  |
