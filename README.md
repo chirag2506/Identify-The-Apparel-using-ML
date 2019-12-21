@@ -24,3 +24,6 @@ The following table gives a list of labels and their corresponding apparel:
 |       7       |     Shoe      |
 |       8       |      Bag      |
 |       9       |   Ankle Boot  |
+
+
+Libraries such as keras, numpy, pandas have been used. A sequential neural network model has been trained. The training set was divided into training and validation set. Training data and test data have been uploaded to Google Drive.
