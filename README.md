@@ -3,6 +3,7 @@ I have trained a Machine Learning Algorithm to Identify the apparel in the image
 Google has done the coolest thing ever by providing a free cloud service based on Jupyter Notebooks that supports free GPU. Not only is this a great tool for improving your coding skills, but it also allows absolutely anyone to develop deep learning applications using popular libraries such as PyTorch, TensorFlow, Keras, and OpenCV.
 
 In case someone decides to use my source code in their local machine, make sure that your Pip (Pip install packages) is updates. If not, use the **python -m pip install --upgrade pip** command to do the same. 
+To download google-colab packages, use **pip install --user google-colab**
 
 
 ## Problem Statement:
